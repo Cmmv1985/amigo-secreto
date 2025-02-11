@@ -45,3 +45,5 @@
 > Aplicación finalizada <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 39 40" src="https://github.com/user-attachments/assets/1ca06aef-3a8d-439e-bb27-1b87a3b320ec" />
 
 - Finalización: El desafío finaliza con el envío del URL de GitHub en el campo dispuesto por el curso.
+> Imagen del campo donde se debe ingresar el enlace del proyecto o desafío <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 54 16" src="https://github.com/user-attachments/assets/075fa694-6264-4849-bc6f-533b544641bd" />
+
