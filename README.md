@@ -38,10 +38,10 @@
 * [Imagen donde se puede verificar la alerta que valida que haya amigos disponibles] <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 41 56" src="https://github.com/user-attachments/assets/9cead23f-c5e9-44c2-a55e-23389c617351" />
 * [Imagen con el último avance donde se puede verificar la lista y el nombre del amigo sorteado] <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 33 21" src="https://github.com/user-attachments/assets/079d112f-2dda-4826-9e23-bf23d4fb6973" />
 
-- Paso extra: Dentro del código HTML se incirporó un texto <p> correspondiente a una breve instrucción de cómo se deben oir ingresando los nombres. El texto dice lo siguinete: "(Ingrese los nombres uno a uno, luego haga clic en "Añadir)"
+- Paso extra: Dentro del código HTML se incirporó un texto <p> correspondiente a una breve instrucción de cómo se deben oir ingresando los nombres. El texto dice lo siguinete: "(Ingrese los nombres uno a uno, luego haga clic en "Añadir)".
 *[Imagen con el texto agregado] <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 38 24" src="https://github.com/user-attachments/assets/6b73a6b5-72dd-40e9-bc36-06b938953dbe" />
 
-- Imagen final de la aplicación previo al ingreso de los nombres:
-* <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 39 40" src="https://github.com/user-attachments/assets/1ca06aef-3a8d-439e-bb27-1b87a3b320ec" />
+- Imagen final de la aplicación con los nombres ingresados y la visualización del nombre sorteado:
+* [Aplicación finalizada] <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 39 40" src="https://github.com/user-attachments/assets/1ca06aef-3a8d-439e-bb27-1b87a3b320ec" />
 
 - Finalización: El desafío finaliza con el envío del URL de GitHub en el campo dispuesto por el curso.
