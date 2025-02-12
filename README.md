@@ -26,7 +26,7 @@
 - Paso 3: Crea una función que recorra el array amigos y agregue cada nombre como un elemento <li> dentro de una lista HTML. Usa innerHTML para limpiar la lista antes de agregar nuevos elementos.
 * Obtener el elemento de la lista: Utilizar document.getElementById() o document.querySelector() para seleccionar la lista donde se mostrarán los amigos.
 * Limpiar la lista existente: Establecer lista.innerHTML = "" para asegurarse de que no haya duplicados al actualizar.
-* Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crear elementos de lista [<li>] para cada título.
+* Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crear elementos de lista <li> para cada título.
 * Agregar elementos a la lista: Para cada amigo, crear un nuevo elemento de lista.
 > Imagen del segundo avance donde se puede verificar la lista de amigos visualizada en la pantalla <img width="1440" alt="Captura de pantalla 2025-02-11 a la(s) 18 22 24" src="https://github.com/user-attachments/assets/2fd0d9ea-5e4f-4e7b-9210-d5c97932ac90" />
 
