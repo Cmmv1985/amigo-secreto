@@ -52,6 +52,6 @@ function actualizarListaAmigos() {
     } else {
       let indiceAmigo = Math.floor(Math.random() * cantidadAmigos);
       let resultadoHTML = document.querySelector("#resultado");
-      resultadoHTML.innerHTML = amigos[indiceAmigo];
+      resultadoHTML.innerHTML = (`"El amigo sorteado es:" ${indiceAmigo}`)
     }
   }
