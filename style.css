@@ -70,6 +70,15 @@ body {
     text-align: center;
 }
 
+.section-parrafo {
+    font-family: "Inter", serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 10px 0;
+    text-align: center;
+}
+
 /* Contenedores de entrada y botón */
 .input-wrapper {
     display: flex;
@@ -88,8 +97,13 @@ body {
 }
 
 .button-container {
-    width: 300px;
-    justify-content: center;
+  display: flex;
+  flex-direction: column; /* Esto alinea los botones verticalmente */
+  gap: 10px; /* Ajusta el espacio entre los botones */
+  align-items: center; /* Centra los botones horizontalmente */
+  margin-top: 20px; /* Opcional: margen superior para separación */
+}
+
 }
 
 /* Estilos de entrada de texto */
