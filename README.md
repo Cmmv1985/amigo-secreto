@@ -48,7 +48,7 @@
 
 **<ins>Paso extra 2:</ins>** Dentro del código HTML se incorporó un nuevo botón el cual reiniciará el juego una vez realizado el sorteo. la función se programó en JavaScript. El código HTML y el CSS, fue clonado del botón de sorteo para que ambos quedaran iguales. También se incorporó una alerta que indica "Sorteo reiniciado. Puede agregar nuevos amigos".
 
-> Imagen con el nuevo botón y la alerta al presionar el boton de reiniciar sorteo <img width="1415" alt="Captura de pantalla 2025-03-12 a la(s) 14 40 20" src="https://github.com/user-attachments/assets/a44282fe-8702-4bb1-8d95-299edc505f5c" />
+> Imagen con el nuevo botón y la alerta que se desplega al presionar el boton de "Reiniciar sorteo" <img width="1415" alt="Captura de pantalla 2025-03-12 a la(s) 14 40 20" src="https://github.com/user-attachments/assets/a44282fe-8702-4bb1-8d95-299edc505f5c" />
 
 **<ins>Imagen final de la aplicación con los nombres ingresados y la visualización del nombre sorteado:</ins>**
 
